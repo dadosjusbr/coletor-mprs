@@ -1,0 +1,8 @@
+numpy==1.20.1
+openpyxl==3.0.7
+pandas==1.2.3
+urllib3==1.26.5
+odfpy==1.4.1
+requests==2.25.1
+protoDadosjusbr>=0.7
+protobuf==3.18.0
