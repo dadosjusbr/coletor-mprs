@@ -46,7 +46,7 @@ func (c crawler) crawl() ([]string, error) {
 	defer cancel()
 
 	// NOTA IMPORTANTE: os prefixos dos nomes dos arquivos tem que ser igual
-	// ao esperado no parser MPAP.
+	// ao esperado no parser MPRS.
 
 	// Contracheque
 	log.Printf("Realizando seleção (%s/%s)...", c.month, c.year)
